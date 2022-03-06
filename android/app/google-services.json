@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "852731619964",
+    "project_id": "hub-care-b68b6",
+    "storage_bucket": "hub-care-b68b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852731619964:android:b0b54d4a3c6681e953f7f9",
+        "android_client_info": {
+          "package_name": "com.abg.hubcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852731619964-kscsdgf9r3umb27i9lsjtf693l8uogvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abg.hubcare",
+            "certificate_hash": "3e096cd15091b4f93f0fad55c1256ee1f83e4e6c"
+          }
+        },
+        {
+          "client_id": "852731619964-v7r2k47gaq3una793d8fpasvlf3elav6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFSOLuHlF6OUYJQHv-qank-KKFlZmjuS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852731619964-v7r2k47gaq3una793d8fpasvlf3elav6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852731619964:android:124cf705e0bbe51153f7f9",
+        "android_client_info": {
+          "package_name": "com.abg.hubcareprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852731619964-2phfafiftlvm1dmamb36ketdrfto26q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abg.hubcareprovider",
+            "certificate_hash": "f57cfb1d870e89efd8aadf9e6938a8507256e38c"
+          }
+        },
+        {
+          "client_id": "852731619964-vrnre2kuf6fo8qm9m074poj2bqecsvt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abg.hubcareprovider",
+            "certificate_hash": "c99f13b3adc55292a3de2ba85b70a1a2d4b7325f"
+          }
+        },
+        {
+          "client_id": "852731619964-v7r2k47gaq3una793d8fpasvlf3elav6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFSOLuHlF6OUYJQHv-qank-KKFlZmjuS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852731619964-v7r2k47gaq3una793d8fpasvlf3elav6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
